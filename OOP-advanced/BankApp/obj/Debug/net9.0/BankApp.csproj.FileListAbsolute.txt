@@ -1,0 +1,15 @@
+c:\Users\dilmurod\Desktop\OOP-advanced\BankApp\bin\Debug\net9.0\BankApp.exe
+c:\Users\dilmurod\Desktop\OOP-advanced\BankApp\bin\Debug\net9.0\BankApp.deps.json
+c:\Users\dilmurod\Desktop\OOP-advanced\BankApp\bin\Debug\net9.0\BankApp.runtimeconfig.json
+c:\Users\dilmurod\Desktop\OOP-advanced\BankApp\bin\Debug\net9.0\BankApp.dll
+c:\Users\dilmurod\Desktop\OOP-advanced\BankApp\bin\Debug\net9.0\BankApp.pdb
+c:\Users\dilmurod\Desktop\OOP-advanced\BankApp\obj\Debug\net9.0\BankApp.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\dilmurod\Desktop\OOP-advanced\BankApp\obj\Debug\net9.0\BankApp.AssemblyInfoInputs.cache
+c:\Users\dilmurod\Desktop\OOP-advanced\BankApp\obj\Debug\net9.0\BankApp.AssemblyInfo.cs
+c:\Users\dilmurod\Desktop\OOP-advanced\BankApp\obj\Debug\net9.0\BankApp.csproj.CoreCompileInputs.cache
+c:\Users\dilmurod\Desktop\OOP-advanced\BankApp\obj\Debug\net9.0\BankApp.dll
+c:\Users\dilmurod\Desktop\OOP-advanced\BankApp\obj\Debug\net9.0\refint\BankApp.dll
+c:\Users\dilmurod\Desktop\OOP-advanced\BankApp\obj\Debug\net9.0\BankApp.pdb
+c:\Users\dilmurod\Desktop\OOP-advanced\BankApp\obj\Debug\net9.0\BankApp.genruntimeconfig.cache
+c:\Users\dilmurod\Desktop\OOP-advanced\BankApp\obj\Debug\net9.0\ref\BankApp.dll
+C:\Users\dilmurod\Desktop\OOP-advanced\BankApp\obj\Debug\net9.0\BankApp.sourcelink.json
